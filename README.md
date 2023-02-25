@@ -10,7 +10,7 @@
     
 <div align='center'>
   <a href='https://digndla12.tistory.com/'>
-    <h2>기술 블로그</h2><img src="https://img.shields.io/badge/Tistory-20C997?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory-20C997?style=for-the-badge&logo=Spring&logoColor=white"/>
   </a>
  
 </div>
