@@ -43,9 +43,9 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+
   <br>
    </div>
    
-![yongmin's github stats](https://github-readme-stats.vercel.app/api?username=jinyongmin&show_icons=true)
+
 [![yongmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyongmin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jinyongmin)
