@@ -43,7 +43,10 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…hUMr_P2CSx3-3pYOo6AjYcjHQdIMEcHe3PwAvxG1IirvR2A&s
+
 
 
   <br>
